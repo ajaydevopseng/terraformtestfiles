@@ -1,6 +1,6 @@
 vmconfig = {
   vm1 = {
-    "rg_name" : "vm_rg",
+    "rg_name" : "vm_rg1",
     "location" : "centralindia"
     "storge_account_name" : "vmstoreacc"
     "account_tier" : "Standard"
