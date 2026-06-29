@@ -1,2 +1,1 @@
 variable "vmconfig" {}
-variable "terraformcofig" {}
